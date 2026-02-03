@@ -1,7 +1,7 @@
 # 🤖 Jarvis AI Assistant (Python)
 
-Jarvis is an advanced **AI-powered voice assistant** built using Python.  
-It can understand voice commands and perform tasks like system control, web browsing, screen recording, file management, note taking, and AI-based question answering — similar to assistants like **Apple Siri** or **Google Assistant**.
+Jarvis is an advanced "AI-powered voice assistant" built using Python.  
+It can understand voice commands and perform tasks like system control, web browsing, screen recording, file management, note taking, and AI-based question answering — similar to assistants like "Apple Siri" or "Google Assistant".
 
 This project is designed to be simple, powerful, and easy to extend.
 
@@ -9,10 +9,10 @@ This project is designed to be simple, powerful, and easy to extend.
 
 ## 📌 Project Overview
 
-The **Jarvis AI Assistant** listens to your voice, understands commands, and responds using speech.  
+The "Jarvis AI Assistant" listens to your voice, understands commands, and responds using speech.  
 It can control your computer, open applications, browse the web, record your screen, manage files, provide system information, and answer questions using AI.
 
-It runs entirely on your desktop and works best on **Windows OS**.
+It runs entirely on your desktop and works best on "Windows OS".
 
 ---
 
@@ -72,7 +72,8 @@ It runs entirely on your desktop and works best on **Windows OS**.
 
 ## 🛠️ Technologies Used
 
-- **Python**
+*Python
+  
 - SpeechRecognition
 - pyttsx3 (Text-to-Speech)
 - OpenAI API
@@ -90,27 +91,27 @@ It runs entirely on your desktop and works best on **Windows OS**.
 
 ## ▶️ How to Run the Project
 
-This guide is written so **anyone** can run the project easily.
+This guide is written so anyone can run the project easily.
 
 ---
 
 ### ✅ Step 1: Install Python
-Install **Python 3.9 or above** from:
+Install Python 3.9 or above from:
 
 https://www.python.org/downloads/
 
 ⚠️ During installation, make sure to check:
-✔️ **Add Python to PATH**
+✔️ Add Python to PATH
 
----
 
 ### ✅ Step 2: Download the Project
 
 Open Command Prompt / PowerShell and run:
 
-```bash
+
 git clone https://github.com/Tohid-Shaikh/Ai-Assistant.git
 cd Ai-Assistant
+
 
 
 ### ✅ Step 3: Install Required Libraries
